@@ -1,0 +1,16 @@
+body {
+  /*background-color: cadetblue;*/
+  background-color: #ffdde1;
+  background-image: linear-gradient(#ee9ca7, #ffdde1);
+  background-repeat: no-repeat;
+  /*#ee9ca7 → #ffdde1
+*/
+}
+.head-1{
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+}
+.form{
+  background-image: linear-gradient(#ee9ca7, #ffdde1);
+}
